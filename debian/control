@@ -1,0 +1,18 @@
+Source: indicator-usb
+Section: utils
+Priority: extra
+Maintainer: Lorenzo Carbonell Cerezo <lorenzo.carbonell.cerezo@gmail.com>
+Build-Depends: debhelper (>= 9), python, python-distutils-extra, python-polib
+Standards-Version: 3.9.4
+Homepage: http://www.atareao.es
+
+Package: indicator-usb
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends},
+    python3,
+    python3-gi,
+    gir1.2-gtk-3.0,
+    gir1.2-appindicator3-0.1,
+    gir1.2-notify-0.7
+Description: An indicator for USB.
+ Cool flash drive unmounter for Ubuntu.

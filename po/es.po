@@ -1,0 +1,81 @@
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2016 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# lorenzo <lorenzo.carbonell.cerezo@gmail.com>, 2016.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: indicator-usb 0.0.5\n"
+"Report-Msgid-Bugs-To: lorenzo.carbonell.cerezo@gmail.com\n"
+"POT-Creation-Date: 2016-06-14 01:08+0200\n"
+"PO-Revision-Date: 2016-06-14 00:13+0200\n"
+"Last-Translator: lorenzo <lorenzo.carbonell.cerezo@gmail.com>\n"
+"Language-Team: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/src/preferences_dialog.py:41
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/src/indicatorusb.py:144
+msgid "Preferences"
+msgstr "Preferencias"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/src/preferences_dialog.py:59
+msgid "General"
+msgstr "General"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/src/preferences_dialog.py:65
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/src/preferences_dialog.py:73
+msgid "Show disks"
+msgstr "Mostrar unidades usb"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/src/preferences_dialog.py:81
+#, fuzzy
+msgid "Show network folders"
+msgstr "Directorios de red"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/src/indicatorusb.py:67
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/src/indicatorusb.py:68
+msgid "Indicator-USB"
+msgstr "Indicador USB"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/src/indicatorusb.py:96
+msgid "Device can be removed now"
+msgstr "El dispositivo se puede extraer"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/src/indicatorusb.py:125
+msgid "Safely remove devices"
+msgstr "Extraer dispositivos de forma segura"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/src/indicatorusb.py:151
+msgid "About..."
+msgstr "Acerca de..."
+
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/src/indicatorusb.py:158
+msgid "Exit"
+msgstr "Salir"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/src/indicatorusb.py:188
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/indicator-usb.desktop.in:14
+msgid "Cool flash drive unmounter for Ubuntu"
+msgstr "Una fantástica aplicación para desmontar dispositivos en Ubuntu"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/indicator-usb.desktop.in:13
+msgid "Indicator usb"
+msgstr "Indicador usb"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/indicator-usb.desktop.in:15
+msgid "Indicator"
+msgstr "Indicador"
+
+#: /home/lorenzo/CloudStation/Programacion/Python/new/indicator-usb/indicator-usb.desktop.in:16
+msgid "indicator;usb"
+msgstr "indicador;usb"
+
+#~ msgid "Devices"
+#~ msgstr "Dispositivos"
+
+#~ msgid "Disks"
+#~ msgstr "Discos"

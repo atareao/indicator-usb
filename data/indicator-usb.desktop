@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name = Indicator usb
+Comment = Cool flash drive unmounter for Ubuntu
+GenericName = Indicator
+Keywords = indicator;usb
+Exec = /opt/extras.ubuntu.com/indicator-usb/bin/indicator-usb
+Icon = media-removable-symbolic
+Type = Application
+Terminal = false
+StartupNotify = true
+Encoding = UTF-8
+Categories = Utility;
+Name[es] = Indicador usb
+Comment[es] = Una fantástica aplicación para desmontar dispositivos en Ubuntu
+GenericName[es] = Indicador
+Keywords[es] = indicador;usb

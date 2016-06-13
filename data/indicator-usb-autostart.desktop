@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Exec=/opt/extras.ubuntu.com/indicator-usb/bin/indicator-usb
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true

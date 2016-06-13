@@ -1,0 +1,17 @@
+[Desktop Entry]
+_Name = Indicator usb
+_Comment = Cool flash drive unmounter for Ubuntu
+_GenericName = Indicator
+_Keywords = indicator;usb
+Exec = /opt/extras.ubuntu.com/indicator-usb/bin/indicator-usb
+Icon = media-removable-symbolic
+Type = Application
+Terminal = false
+StartupNotify = true
+Encoding = UTF-8
+Categories = Utility;
+$Name[es] = _('Indicator usb')
+$Comment[es] = _('Cool flash drive unmounter for Ubuntu')
+$GenericName[es] = _('Indicator')
+$Keywords[es] = _('indicator;usb')
+

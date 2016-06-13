@@ -1,0 +1,30 @@
+=============
+indicator-usb
+=============
+
+Cool flash drive unmounter for Ubuntu
+
+For more information, please visit our website:
+https://github.com/atareao/indicator-usb
+or
+http://www.atareao.es
+
+============
+Requirements
+============
+
+Required dependencies:
+
+    python3,
+    python3-gi,
+    gir1.2-gtk-3.0,
+    gir1.2-appindicator3-0.1,
+    gir1.2-notify-0.7
+
+========
+Download
+========
+
+Download the package:
+
+    $ git clone https://github.com/atareao/indicator-usb.git
