@@ -50,7 +50,7 @@ def _get_icon_name_from_gicon(gicon):
         if theme.lookup_icon(n, Gtk.IconSize.MENU, 0):
             name = n
             break
-    return n
+    return name
 
 
 class Main:
@@ -211,7 +211,7 @@ Lorenzo Carbonell Cerezo <lorenzo.carbonell.cerezo@gmail.com>\n\
 ''')
         ad.set_documenters([
             'Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>'])
-        ad.set_logo(GdkPixbuf.Pixbuf.new_from_file(comun.ICON))
+        ad.set_logo(GdkPixbuf.Pixbuf.new_from_file(comun.IMAGE))
         ad.set_icon(GdkPixbuf.Pixbuf.new_from_file(comun.ICON))
         ad.set_program_name(comun.APPNAME)
         ad.run()

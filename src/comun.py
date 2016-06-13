@@ -59,6 +59,7 @@ else:
     CHANGELOG = os.path.join(DEBIANDIR, 'changelog')
     AUTOSTART = os.path.normpath(
         os.path.join(ROOTDIR, '../data/indicator-usb-autostart.desktop'))
+IMAGE = os.path.join(ICONDIR, 'indicator-usb.png')
 ICON = os.path.join(ICONDIR, 'indicator-usb.svg')
 
 f = open(CHANGELOG, 'r')

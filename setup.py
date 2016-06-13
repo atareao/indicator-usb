@@ -27,7 +27,8 @@ DATA_FILES = [
     (os.path.join(ROOT, 'share', 'indicator-usb'), ['debian/changelog']),
     (os.path.join(ROOT, 'share', 'indicator-usb'),
      ['data/indicator-usb-autostart.desktop']),
-    (os.path.join(ROOT, 'share', 'pixmaps'), ['data/indicator-usb.svg']),
+    (os.path.join(ROOT, 'share', 'icons'), ['data/icons/indicator-usb.png']),
+    (os.path.join(ROOT, 'share', 'icons'), ['data/icons/indicator-usb.svg']),
     ('/usr/share/applications', ['data/indicator-usb.desktop'])
     ]
 

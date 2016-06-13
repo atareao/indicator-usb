@@ -1,5 +1,5 @@
-indicator-usb (0.0.5-0extras16.04.0) xenial; urgency=medium
+indicator-usb (0.0.5-0extras16.04.1) xenial; urgency=medium
 
   * First version
 
- -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Sun, 21 Nov 2010 21:21:20 +0100
+ -- Lorenzo Carbonell <lorenzo.carbonell.cerezo@gmail.com>  Tue, 14 Jun 2016 01:30:02 +0200
