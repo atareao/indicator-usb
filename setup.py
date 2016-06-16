@@ -32,20 +32,6 @@ DATA_FILES = [
     ('/usr/share/applications', ['data/indicator-usb.desktop'])
     ]
 
-DATA_FILES = [
-    (os.path.join(ROOT, 'bin'),
-     glob.glob('bin/*')),
-    (os.path.join(ROOT, 'share/indicator-usb'),
-     glob.glob('src/*')),
-    (os.path.join(ROOT, 'share/indicator-usb'),
-     ['debian/changelog']),
-    (os.path.join(ROOT, 'share/pixmaps'),
-     ['data/indicator-usb.svg']),
-    ('/usr/share/applications',
-     ['data/indicator-usb.desktop'])
-    ]
-
-
 MAIN_DIR = os.getcwd()
 DATA_DIR = os.path.join(MAIN_DIR, 'data')
 DEBIAN_DIR = os.path.join(MAIN_DIR, 'debian')
